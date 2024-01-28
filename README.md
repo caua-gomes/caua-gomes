@@ -1,10 +1,12 @@
 ## « Olá! eu sou Cauã Gomes »
-
-→ 👾 Front-End Dev Junior
-
-→ 🤠 Pronouns: ele/dele
-
-→ 🌱 Estou aprendendo mais sobre React e Bootstrap
+    
+  → 👾 Front-End Dev Junior
+  
+  → 🤠 Pronouns: ele/dele
+  
+  → 🌱 Estou aprendendo mais sobre React e Bootstrap
+    
+  <img height="100" src="https://github.com/caua-gomes/caua-gomes/assets/135681209/edbc3a5f-403b-4fd3-b906-7a5e770f118c" />
 
 ##
 
@@ -34,6 +36,5 @@
 </div>
 
 ##
-
 
 
