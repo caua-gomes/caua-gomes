@@ -41,4 +41,5 @@
 
 ##
 
+![Snake animation] (https://github.com/caua-gomes)
 
