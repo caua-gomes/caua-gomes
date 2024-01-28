@@ -41,5 +41,5 @@
 
 ##
 
-![Snake animation](https://github.com/caua-gomes/caua-gomes/issues/1)
+![Snake animation](https://github.com/caua-gomes/caua-gomes)
 
