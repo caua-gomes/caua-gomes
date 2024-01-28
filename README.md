@@ -1,14 +1,8 @@
 ## « Olá! eu sou Cauã Gomes »
 
-• 👾 Front-End Dev
-• 🤠 Pronouns: ele/dele
-• 🌱 Estou aprendendo mais sobre React
-• 👌 Teste
-• 🤔 I’m looking for help with ...
-• 💬 Ask me about ...
-• 📫 How to reach me: ...
-• 😄 Pronouns: ...
-• ⚡ Fun fact: ...
+→ 👾 Front-End Dev Junior
+→ 🤠 Pronouns: ele/dele
+→ 🌱 Estou aprendendo mais sobre React e Bootstrap
 
 ##
 
