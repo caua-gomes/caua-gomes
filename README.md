@@ -1,8 +1,8 @@
 ## « Olá! eu sou Cauã Gomes »
 
-→ 👾 Front-End Dev Junior
-→ 🤠 Pronouns: ele/dele
-→ 🌱 Estou aprendendo mais sobre React e Bootstrap
+→ 👾 Front-End Dev Junior.
+→ 🤠 Pronouns: ele/dele.
+→ 🌱 Estou aprendendo mais sobre React e Bootstrap.
 
 ##
 
