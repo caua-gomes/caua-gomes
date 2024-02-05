@@ -2,9 +2,9 @@
     
   → 👾 Front-End Dev Junior
   
-  → 🤠 Pronouns: ele/dele
+  → 🤠 Pronouns: ele/dele | he/him
   
-  → 🌱 Estou aprendendo mais sobre React e Bootstrap
+  → 🌱 Estou aprendendo mais sobre React e Bootstrap | I'm learning more about React and Bootstrap
     
   <img height="100" src="https://github.com/caua-gomes/caua-gomes/assets/135681209/edbc3a5f-403b-4fd3-b906-7a5e770f118c" />
 
@@ -38,5 +38,6 @@
 ##
 
 → Todos os projetos podem ser visualizados no Vercel
+→ All projects can be visualized on Vercel
 👉 https://vercel.com/caua-gomes
 
